@@ -72,7 +72,6 @@ Pe termen lung, îmi doresc să construiesc proiecte care îmbină:
 ---
 
 ### 📫 Contact
-
-📧 **Email:** [adaugă adresa ta aici]  
-💻 **GitHub:** [github.com/asphroxia](https://github.com/asphroxia) *(sau linkul real al tău)*  
+ 
+💻 **GitHub:** [github.com/asphroxia](https://github.com/asphroxia) 
 🏫 **Facultate:** Calculatoare și Tehnologia Informației  
